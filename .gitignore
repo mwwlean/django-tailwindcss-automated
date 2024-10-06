@@ -1,0 +1,4 @@
+/build/*
+/dist/*
+/django_tailwindcss_automated/*
+/django_tailwindcss_automated.egg-info/*
